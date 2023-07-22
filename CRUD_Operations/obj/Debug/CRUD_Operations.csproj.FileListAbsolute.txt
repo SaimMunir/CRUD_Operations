@@ -1,0 +1,11 @@
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.exe.config
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.exe
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\bin\Debug\CRUD_Operations.pdb
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.AssemblyReference.cache
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.SuggestedBindingRedirects.cache
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.Form1.resources
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.Properties.Resources.resources
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.GenerateResource.cache
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.CoreCompileInputs.cache
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.exe
+C:\Stuff\Study\University\DBS\Project\CRUD_Operations\CRUD_Operations\obj\Debug\CRUD_Operations.pdb
