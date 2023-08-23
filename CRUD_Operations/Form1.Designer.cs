@@ -222,7 +222,7 @@
 			this.MinimizeBox = false;
 			this.Name = "Form1";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-			this.Text = "Patient Information";
+			this.Text = "Student Information";
 			this.Load += new System.EventHandler(this.Form1_Load);
 			((System.ComponentModel.ISupportInitialize)(this.StudentRecordView)).EndInit();
 			this.ResumeLayout(false);

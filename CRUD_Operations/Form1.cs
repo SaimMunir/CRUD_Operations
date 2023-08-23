@@ -69,7 +69,6 @@ namespace CRUD_Operations
 				SqlCommand cmd = new SqlCommand("Delete FROM StudentsTb Where StudentID = @ID",  con);
 				cmd.CommandType = CommandType.Text;
 				cmd.Parameters.AddWithValue("@ID", StudentId);
-				cmd.Parameters.RemoveAt(1);
 
 				con.Open();
 				cmd.ExecuteNonQuery();
@@ -118,7 +117,7 @@ namespace CRUD_Operations
 			return true;
 		}
 
-		private void button4_Click(object sender, EventArgs e)
+		private void button4_Click(object sender, EventArgs e) //reset button
 		{
 			ResetValues();
 		}
@@ -131,7 +130,7 @@ namespace CRUD_Operations
 		{
 		}
 
-		private void ResetValues()
+		private void ResetValues() //reset code
 		{
 			StudentId = 0;
 			txt_student_name.Clear();
